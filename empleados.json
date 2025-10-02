@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Carlos Rodríguez",
+    "email": "carlos.rodriguez@empresa.com.co",
+    "phone": "+57 300 123 4567",
+    "address": "Carrera 15 #93-47, Bogotá",
+    "position": "Desarrollador Frontend",
+    "salary": 1200,
+    "skills": ["JavaScript", "React", "CSS", "HTML"]
+  },
+  {
+    "id": 2,
+    "name": "María González",
+    "email": "maria.gonzalez@empresa.com.co",
+    "phone": "+57 300 234 5678",
+    "address": "Calle 80 #11-42, Bogotá",
+    "position": "Desarrolladora Backend",
+    "salary": 1400,
+    "skills": ["Python", "Django", "PostgreSQL", "Docker"]
+  },
+  {
+    "id": 3,
+    "name": "Andrés López",
+    "email": "andres.lopez@empresa.com.co",
+    "phone": "+57 300 345 6789",
+    "address": "Avenida 68 #25-35, Bogotá",
+    "position": "Diseñador UX/UI",
+    "salary": 1000,
+    "skills": ["Figma", "Adobe XD", "Sketch", "Prototyping"]
+  },
+  {
+    "id": 4,
+    "name": "Sofia Martínez",
+    "email": "sofia.martinez@empresa.com.co",
+    "phone": "+57 300 456 7890",
+    "address": "Carrera 7 #32-16, Bogotá",
+    "position": "Analista de Datos",
+    "salary": 1100,
+    "skills": ["Python", "SQL", "Tableau", "Excel"]
+  },
+  {
+    "id": 5,
+    "name": "Diego Herrera",
+    "email": "diego.herrera@empresa.com.co",
+    "phone": "+57 300 567 8901",
+    "address": "Calle 127 #53-30, Bogotá",
+    "position": "DevOps Engineer",
+    "salary": 1500,
+    "skills": ["AWS", "Kubernetes", "Jenkins", "Linux"]
+  },
+  {
+    "id": 6,
+    "name": "Valentina Ruiz",
+    "email": "valentina.ruiz@empresa.com.co",
+    "phone": "+57 300 678 9012",
+    "address": "Carrera 50 #26-20, Bogotá",
+    "position": "Product Manager",
+    "salary": 1600,
+    "skills": ["Agile", "Scrum", "Jira", "Product Strategy"]
+  },
+  {
+    "id": 7,
+    "name": "Sebastián Vargas",
+    "email": "sebastian.vargas@empresa.com.co",
+    "phone": "+57 300 789 0123",
+    "address": "Avenida 19 #104-07, Bogotá",
+    "position": "QA Tester",
+    "salary": 900,
+    "skills": ["Selenium", "Cypress", "Jest", "Manual Testing"]
+  },
+  {
+    "id": 8,
+    "name": "Isabella Torres",
+    "email": "isabella.torres@empresa.com.co",
+    "phone": "+57 300 890 1234",
+    "address": "Carrera 11 #93-94, Bogotá",
+    "position": "Marketing Digital",
+    "salary": 1000,
+    "skills": ["Google Ads", "Facebook Ads", "Analytics", "SEO"]
+  },
+  {
+    "id": 9,
+    "name": "Nicolás Jiménez",
+    "email": "nicolas.jimenez@empresa.com.co",
+    "phone": "+57 300 901 2345",
+    "address": "Calle 100 #11-27, Bogotá",
+    "position": "Full Stack Developer",
+    "salary": 1400,
+    "skills": ["Node.js", "React", "MongoDB", "Express"]
+  },
+  {
+    "id": 10,
+    "name": "Camila Sánchez",
+    "email": "camila.sanchez@empresa.com.co",
+    "phone": "+57 300 012 3456",
+    "address": "Carrera 5 #12-36, Bogotá",
+    "position": "Recursos Humanos",
+    "salary": 800,
+    "skills": ["Reclutamiento", "Selección", "Capacitación", "Ley Laboral"]
+  }
+]

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestión de Empleados</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Lista de Empleados</h1>
+        
+        <div class="filters">
+            <input type="text" id="emailSearch" placeholder="Buscar por email">
+            <input type="number" id="minSalary" placeholder="Salario mínimo">
+            <input type="number" id="maxSalary" placeholder="Salario máximo">
+            <button onclick="buscar()">Buscar</button>
+            <button onclick="limpiar()">Limpiar</button>
+        </div>
+
+        <div id="lista" class="employees-list">
+            <!-- Empleados aquí -->
+        </div>
+    </div>
+
+    <!-- Modal para detalles -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <h2 id="modalTitle">Detalles del Empleado</h2>
+            <div id="modalContent"></div>
+            <button onclick="cerrarModal()" class="btn-close">Cerrar</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
